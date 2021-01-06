@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/Banner.gif "Header")]()
 
 <p>
-  <img width="250" align="left" src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/picrew.png">
+  <img width="150" align="left" src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/picrew.png">
 </p>
 
 ## Hola Mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> :nerd_face:
