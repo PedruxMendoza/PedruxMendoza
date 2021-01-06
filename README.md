@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/Banner.gif "Header")](https://some-url.dev/)
+<img src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/Banner.gif">
+
 ### Hi there 👋
 
 <!--
