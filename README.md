@@ -13,9 +13,12 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 ---
 
 ## 📈 GitHub Stats
-
+<a href="https://github.com/PedruxMendoza">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedruxMendoza&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/PedruxMendoza">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedruxMendoza&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&hide_border=true" alt="Pedrux's GitHub Stats" />
+</a>
 ---
 <!--
 **PedruxMendoza/PedruxMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
