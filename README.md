@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/Banner.gif "Header")
 
-<p align='left'> Hola Mundo!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :nerd_face: </p>
+<p align='left' style="font-size:40px;"> Hola Mundo!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :nerd_face: </p>
 Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de PHP. Soy de El Salvador y me encanta el área informática tanto en el de redes como en el desarrollo. En esta última me enamoré y actualmente estoy como Desarrollador en PHP y C#. Tambien me encanta el área del diseño grafico ya que me gusta captar la atencion de forma visual al usuario final.
 
 ## GitHub Stats
