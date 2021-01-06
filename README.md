@@ -24,7 +24,7 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 ## 🔧 Herramientas y Tecnologias
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=C Sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=C-Sharp&logoColor=white&color=2bbc8a)
 <!--
 **PedruxMendoza/PedruxMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
