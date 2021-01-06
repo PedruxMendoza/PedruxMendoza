@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/Banner.gif "Header")](https://some-url.dev/)
 ### Hi there 👋
 
 <!--
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Social banner for Header](https://github.com/PedruxMendoza/PedruxMendoza/Banner.gif)]
