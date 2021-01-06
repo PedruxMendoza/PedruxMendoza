@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/Banner.gif">
 
 ### <h1 align='center'> Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :nerd_face: </h1>
+Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de PHP. Soy de El Salvador y me encanta el área informática tanto en el de redes como en el desarrollo. En esta última me enamoré y actualmente estoy como Desarrollador en PHP y C#. Tambien me encanta el área del diseño grafico ya que me gusta captar la atencion de forma visual al usuario final.
 
 <!--
 **PedruxMendoza/PedruxMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
