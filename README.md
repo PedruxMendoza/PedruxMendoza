@@ -10,7 +10,7 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 ---
 
-# 📈 GitHub Stats
+- 📈 GitHub Stats
 
 ---
 <!--
