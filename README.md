@@ -15,8 +15,8 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 ## 🔧 Herramientas y Tecnologias
 
 ![](https://img.shields.io/badge/S.O.-Windows-informational?style=flat&logo=windows&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=135c8d)
+![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
+![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/Código-PHP-informational?style=flat&logo=php&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/Código-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=135c8d)
