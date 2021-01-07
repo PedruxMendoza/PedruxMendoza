@@ -1,5 +1,7 @@
 [![Header](https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/Banner.gif "Header")]()
 
+![](https://komarev.com/ghpvc/?username=PedruxMendoza&color=135c8d)
+
 <p>
   <img width="250" align="left" src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/picrew.png">
 </p>
@@ -41,8 +43,6 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 <p align="center">
   Puedes seguirme en <a href="https://www.twitter.com/PedruxMendoza"><img width="18" src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/twitter.png"></a>, o en <a href="https://www.linkedin.com/in/pedro-mendoza-ba275469/"/><img width="18" src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/linkedin.png"></a>.
 </p>
-
-![](https://komarev.com/ghpvc/?username=PedruxMendoza&color=135c8d)
 
 <!--
 **PedruxMendoza/PedruxMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
