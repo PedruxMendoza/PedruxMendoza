@@ -24,7 +24,7 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 ![](https://img.shields.io/badge/Herramienta-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/Herramienta-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/Tecnología-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Tecnología-CodeIgniter-informational?style=flat&logo=codeigniterl&logoColor=white&color=135c8d)
+![](https://img.shields.io/badge/Tecnología-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/Tecnología-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=135c8d)
 
 ---
