@@ -41,7 +41,7 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 <!-- Actual text -->
 
-Puedes seguirme en <a href="[1]"><img width="16" src="[1.2]"></a>, o en <a href="[2]"><img width="16" src="[2.2]"></a>.
+Puedes seguirme en <a href=[1]><img width="16" src=[1.2]></a>, o en <a href=[2]><img width="16" src=[2.2]></a>.
 
 <!-- Icons -->
 
@@ -50,7 +50,7 @@ Puedes seguirme en <a href="[1]"><img width="16" src="[1.2]"></a>, o en <a href=
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/
+[1]: 
 [2]: https://www.linkedin.com/
 <!--
 **PedruxMendoza/PedruxMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
