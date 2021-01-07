@@ -41,12 +41,12 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 <!-- Actual text -->
 
-Puedes seguirme en [![Twitter][1.2]][1], o en [![LinkedIn][2.2]][2].
+Puedes seguirme en <a href="[1]"><img width="16" src="[1.2]"></a>, o en <a href="[2]"><img width="16" src="[2.2]"></a>.
 
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/twitter.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/linkedin.png
 
 <!-- Links to your social media accounts -->
 
