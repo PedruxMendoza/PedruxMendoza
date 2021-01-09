@@ -48,6 +48,25 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 | ![](https://img.shields.io/badge/Lenguaje-Transact_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Lenguaje-PL/SQL-informational?style=flat&logo=oracle&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
 
+## CSS
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/CSS-Vainilla-informational?style=flat&logo=css3&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+
+## Python
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+
+## IDE
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
+
+
 ![](https://img.shields.io/badge/S.O.-Windows-informational?style=flat&logo=windows&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=135c8d)
