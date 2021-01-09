@@ -42,11 +42,11 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 ## Base de Datos
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/Gestor-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Gestor-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Gestor-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
-| ![](https://img.shields.io/badge/Lenguaje-Transact_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Lenguaje-PL/SQL-informational?style=flat&logo=oracle&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Gestor-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Gestor-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Gestor-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Lenguaje-Transact_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Lenguaje-PL/SQL-informational?style=flat&logo=oracle&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
 
 ![](https://img.shields.io/badge/S.O.-Windows-informational?style=flat&logo=windows&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
