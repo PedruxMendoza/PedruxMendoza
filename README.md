@@ -26,6 +26,17 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 <td valign="top" width="50%">
 </td>
 </tr>
+<tr><td valign="top" width="50%" rowspan="2">
+</td><td valign="top" width="50%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+</td>
+</tr>
+<tr><td valign="top" width="100%" colspan="2">
+</td></tr>
+</table>
 
 ## PHP
 | Tecnologia | Progreso |
