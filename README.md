@@ -66,20 +66,6 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 | ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
 
-
-![](https://img.shields.io/badge/S.O.-Windows-informational?style=flat&logo=windows&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Código-PHP-informational?style=flat&logo=php&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Código-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Código-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Herramienta-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Herramienta-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Tecnología-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Tecnología-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=135c8d)
-![](https://img.shields.io/badge/Tecnología-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=135c8d)
-
 ## Stats Diseñador
 
 ---
