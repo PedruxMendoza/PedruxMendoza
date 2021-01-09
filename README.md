@@ -51,13 +51,13 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 ## CSS
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/CSS-Vainilla-informational?style=flat&logo=css3&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/CSS-Vainilla-informational?style=flat&logo=css3&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 
 ## Python
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=white&color=9931CC)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Python-Vainilla-informational?style=flat&logo=python&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 
 ## IDE
 | Tecnologia | Progreso |
