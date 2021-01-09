@@ -22,18 +22,18 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 | Tecnologia | Progreso |
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/PHP-Vainilla-informational?style=flat&logo=php&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=135c8d)  ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
-| ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=135c8d)  ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=135c8d) | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=135c8d) | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 
 ## Javascript
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 
 ## .NET
 | Tecnologia | Progreso |
 | ------- | :-------: |
-| ![](https://img.shields.io/badge/.Net-Visual_Basic-informational?style=flat&logo=javascript&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/7EFFD4/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/.Net-Visual_Basic-informational?style=flat&logo=javascript&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 
 ![](https://img.shields.io/badge/S.O.-Windows-informational?style=flat&logo=windows&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
