@@ -68,10 +68,6 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 ## Stats Diseñador
 
-![](https://img.shields.io/badge/Editor-Camtasia_Studio-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAXVBMVEX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8/beDHAAAAHnRSTlMAAQIMHiMkVV9gYWRpam55h6anvsDP3ODh7u/y9P6Pf8UpAAAAaUlEQVR42tXS1QGFMBQD0DwX3Ov7b4k7ZADOX71XECl3QkVQ7pSEI6aF3PuNvn65WshemAV6WVjN30KzXFW88fj8e99Yr95IbnhWrmc3j6d3PIVbXG2BB8hTwpPI084LRUCyZohOV2TUAK11NYgsio3IAAAAAElFTkSuQmCC&style=flat&logoColor=white&color=135c8d)
-
-![](https://img.shields.io/badge/Editor-Filmora_9-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAYCAQAAABdXGW6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5QEJEREqX7NlKgAAAAJiS0dEAP+Hj8y/AAABYklEQVQoz4XTv0vVURjH8dMPoiIckgKhWReHIHAJpMFC0XS4EEZDUBFmUIvkvVCD0hTRna5bt0HSCikvQgUNEoSOYqDkJNEeWX/Ay+Ge/H7P/Ro97+UMb86Pz/OcEIImp712v7kuVFTazeKnG/tqguCUOc365bYDBS0elNWOsYLmjDfS+u2uw4lmUbH+GE7u5pofBamhx9mcJhhs0RqGlT12xdGoCYIB3/eUBd2qPlu2pDfuFnO6ZDsqJU/MqKmZUXPLMbk4L9vxSpcpi95G3pnVIxdou0euqpv3MseceZVMOqTDhBeeJ9TVTWTHXdTw0fuEDxacl2vwuKpnCVVPXXf8r9Rv2aovCSs+6csi6HDTtKmEaQ+NZGGWrPhqLWHdqqF8W/pNKueYVHHPBUfyDW5T9c3GHpvWlFrmU3DSgAdxn4px51qmKb6uTc2WDZvWjf57yk/oVTam08H//Zc7+3+pXQsq+y/+yAa/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTAxLTA5VDE3OjE3OjQyKzAwOjAwwdaw8AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0wMS0wOVQxNzoxNzo0MiswMDowMLCLCEwAAAAASUVORK5CYII=&style=flat&logoColor=white&color=135c8d) 
-
 ## Adobe
 | Tecnologia | Progreso |
 | ------- | :-------: |
@@ -80,6 +76,13 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 | ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 | ![](https://img.shields.io/badge/Adobe-Animate-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAQAAAClvJ5NAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQflAQkRESixvQQGAAABh0lEQVQ4y5XUv0vVYRiG8c/3WGrRD+QEtgR21KLaoqi9IoemaI2gfyCaGhobG4KmQHCI5ggNBBUCoUkaCh2iDIMosRIzKkI9d8NROxYc/F7b8/JePM/98vKI1DKYhdTTmno+ZzC1kN5MZPtMpFeGSghJMlTki6oyfC1SV5RSUiRN5arfol17K6eypRo34ILbVlr3aeZGRLoz0yr/jiZ73rhuB7007jiYNaNHhxfqzuj/v8vjVHI5dyPn8yNJci9FDudQRI5msnHtb5Z4qu6cAVVTXoE28cExV1W99sDa1vjvPdPlrD4nfTMKCpzwyEPX8M7PrcqkOWvuuG4OoxbXzzt0og+r6rARf8WIWPZkvZ425eLmyDZ7NilvPbfLLT1ixX3TRjaVf9hQxnxyyk37wEfTxswraAyjTiP8RpZVs/pdWRe45LTd3jigT00bqo7o1waNPxZLVu3Vua7ULVmzB8t26lL45bt2+xUbSikqyiqpbL7/dlmsGC6pDEut5LqoKbGUFhpL6Q+5P5wrKEAZqwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wMS0wOVQxNzoxNzo0MCswMDowMFZJodkAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDEtMDlUMTc6MTc6NDArMDA6MDAnFBllAAAAAElFTkSuQmCC&style=flat&logoColor=white&color=135c8d)   | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
 | ![](https://img.shields.io/badge/Adobe-InDesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
+
+## Editores de Video
+| Tecnologia | Progreso |
+| ------- | :-------: |
+| 
+![](https://img.shields.io/badge/Editor-Camtasia_Studio-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAXVBMVEX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8/beDHAAAAHnRSTlMAAQIMHiMkVV9gYWRpam55h6anvsDP3ODh7u/y9P6Pf8UpAAAAaUlEQVR42tXS1QGFMBQD0DwX3Ov7b4k7ZADOX71XECl3QkVQ7pSEI6aF3PuNvn65WshemAV6WVjN30KzXFW88fj8e99Yr95IbnhWrmc3j6d3PIVbXG2BB8hTwpPI084LRUCyZohOV2TUAK11NYgsio3IAAAAAElFTkSuQmCC&style=flat&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
+| ![](https://img.shields.io/badge/Editor-Filmora_9-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAYCAQAAABdXGW6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5QEJEREqX7NlKgAAAAJiS0dEAP+Hj8y/AAABYklEQVQoz4XTv0vVURjH8dMPoiIckgKhWReHIHAJpMFC0XS4EEZDUBFmUIvkvVCD0hTRna5bt0HSCikvQgUNEoSOYqDkJNEeWX/Ay+Ge/H7P/Ro97+UMb86Pz/OcEIImp712v7kuVFTazeKnG/tqguCUOc365bYDBS0elNWOsYLmjDfS+u2uw4lmUbH+GE7u5pofBamhx9mcJhhs0RqGlT12xdGoCYIB3/eUBd2qPlu2pDfuFnO6ZDsqJU/MqKmZUXPLMbk4L9vxSpcpi95G3pnVIxdou0euqpv3MseceZVMOqTDhBeeJ9TVTWTHXdTw0fuEDxacl2vwuKpnCVVPXXf8r9Rv2aovCSs+6csi6HDTtKmEaQ+NZGGWrPhqLWHdqqF8W/pNKueYVHHPBUfyDW5T9c3GHpvWlFrmU3DSgAdxn4px51qmKb6uTc2WDZvWjf57yk/oVTam08H//Zc7+3+pXQsq+y/+yAa/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTAxLTA5VDE3OjE3OjQyKzAwOjAwwdaw8AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0wMS0wOVQxNzoxNzo0MiswMDowMLCLCEwAAAAASUVORK5CYII=&style=flat&logoColor=white&color=135c8d)   | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
 
 ---
 
