@@ -6,7 +6,7 @@
   <img width="250" align="left" src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/master/picrew.png">
 </p>
 
-## Hola Mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :nerd_face:
+# Hola Mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :nerd_face:
 
 Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de PHP. Soy de El Salvador y me encanta el área informática tanto en el de redes como en el desarrollo. En esta última me enamoré y actualmente estoy como Desarrollador en PHP y C#. Tambien me encanta el área del diseño grafico ya que me gusta captar la atencion de forma visual al usuario final.
 
@@ -14,7 +14,7 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 ---
 
-## 🔧 Herramientas y Tecnologias
+# 🔧 Herramientas y Tecnologias
 
 ![](https://img.shields.io/badge/S.O.-Windows-informational?style=flat&logo=windows&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
@@ -31,7 +31,7 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 <a href="https://github.com/PedruxMendoza">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedruxMendoza&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=135c8d&bg_color=0D1117&hide_border=true" />
 </a>
