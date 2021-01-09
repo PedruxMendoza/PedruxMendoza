@@ -16,6 +16,8 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 # 🔧 Herramientas y Tecnologias
 
+## Stats Programador
+
 ![](https://img.shields.io/badge/S.O.-Windows-informational?style=flat&logo=windows&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=135c8d)
@@ -28,6 +30,8 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 ![](https://img.shields.io/badge/Tecnología-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/Tecnología-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/Tecnología-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=135c8d)
+
+## Stats Diseñador
 
 ---
 
