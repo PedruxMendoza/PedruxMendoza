@@ -34,6 +34,10 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 | Tecnologia | Progreso |
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/.Net-Visual_Basic-informational?style=flat&logo=javascript&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/.Net-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/.Net-Console-informational?style=flat&logo=c-sharp&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/.Net-Windows_Forms-informational?style=flat&logo=c-sharp&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
+| ![](https://img.shields.io/badge/.Net-WPF-informational?style=flat&logo=javascript&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/E70012/000000?text=+) *Aprendiendo*  |
 
 ![](https://img.shields.io/badge/S.O.-Windows-informational?style=flat&logo=windows&logoColor=white&color=135c8d)
 ![](https://img.shields.io/badge/IDE-Visual_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=135c8d)
