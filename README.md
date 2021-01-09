@@ -30,6 +30,9 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 | ------- | :-------: |
 | ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=javascript&logoColor=white&color=135c8d)  | ![#f03c15](https://placehold.it/15/17781B/000000?text=+) **Dominado**  |
 
+![](https://img.shields.io/badge/.Net-Visual_Basic-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQflAQkRESpfs2UqAAABzElEQVQ4y52UwUtUURjFf+/Nm40LZ0CFFFcyNQgFPoox24wLEUobR4IWEQQ6i/oPFILoT3DhysW4CHfCCKKFRM5CxFq10NUojEGFhRroLHxvPC3m+npjqel5i/vde8/33n3fPd+xAEC1IUqKLGkSxIBfbLJMgY94ABYBVHtc5bWj09jRtNwaI0x3lNO2zsK2cnJMiqGPqaLzUNGYSRFCuQvotZTcSYJ7zmHqD+YKFNW0JMlXNbTpy9exPHnyQqt5RR1SPABghjLjRAA45BUPaeclR8A1RrgNwAApmywtADQxQ9kU7jOLtPKTNe7zhArP+QJAC1mbtCHdI84HEy/QxQ2OiTPII15zELwqbZMwYZw+FvCAPZbJmIp7iE+00WFYCUK/uqab2pD0Vil9lbSqNg0ro6TeBJyq80cg3KKdJTqZp4dWQDTQS4x1puig50QYu6GyTWhQW7qr95KkFbn6Jkka1QvD2LUphb7Rz3emaOQO9bComqhkUwxtXCfJJH00mvk+c8wyziqPzUrRocAzcxMQ4Sk+GTNrppt3WDQzaYr/gwKKKl+nGD+I/imNK4jvCvK+XANdukX/wwTyYROw/rKZIXoDmylRPG0zvwHsxXnCpP3sFwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wMS0wOVQxNzoxNzo0MiswMDowMMHWsPAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDEtMDlUMTc6MTc6NDIrMDA6MDCwiwhMAAAAAElFTkSuQmCC&style=flat&logoColor=white&color=135c8d)
+
+
 ## .NET
 | Tecnologia | Progreso |
 | ------- | :-------: |
