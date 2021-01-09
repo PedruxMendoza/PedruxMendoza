@@ -18,6 +18,15 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 ## Stats Programador
 
+<table align="center"><tr><td valign="top" width="50%" rowspan="2">
+</td><td valign="top" width="50%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+</td>
+</tr>
+
 ## PHP
 | Tecnologia | Progreso |
 | ------- | :-------: |
