@@ -17,7 +17,7 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 # Herramientas y Tecnologias 🔧
 
 <details open>
-<summary> <p style="font-size:40px;"><b>Stack Programador <img src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/main/source.gif" width="35px"> </b> </p> </summary>
+<summary  style="font-size:40px;"> <b>Stack Programador <img src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/main/source.gif" width="35px"> </b> </summary>
 <br>
 
 <table align="center"><tr><td valign="top" width="50%" rowspan="2">
