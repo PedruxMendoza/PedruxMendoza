@@ -16,7 +16,13 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 # Herramientas y Tecnologias 🔧
 
+<details open>
+
+<summary> 
+
 ## Stats Programador <img src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/main/source.gif" width="35px">
+
+</summary>
 
 <table align="center"><tr><td valign="top" width="50%" rowspan="2">
   
@@ -93,7 +99,15 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 </td></tr>
 </table>
 
+</details>
+
+<details>
+
+<summary> 
+  
 ## Stats Diseñador <img src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/main/ezgif-7-bb703d6a8bcc.gif" width="35px">
+
+</summary>
 
 <table align="center"><tr><td valign="top" width="50%">
 
@@ -116,6 +130,8 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 </td></tr>
 </table>
+
+</details>
 
 ---
 
