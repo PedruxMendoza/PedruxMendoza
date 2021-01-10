@@ -128,7 +128,7 @@ Mi nombre es Pedro Mendoza y soy un Técnico en Informática / Desarrollador de 
 
 ---
 
-# GitHub Stats 📈
+# GitHub Stats <img src="https://raw.githubusercontent.com/PedruxMendoza/PedruxMendoza/main/ezgif-7-337e8e887932.gif" width="45px">
 <div align="center">
 <a href="https://github.com/PedruxMendoza">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedruxMendoza&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=135c8d&bg_color=0D1117&hide_border=true" />
